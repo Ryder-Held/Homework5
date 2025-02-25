@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.exe
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.deps.json
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.runtimeconfig.json
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.dll
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\bin\Debug\net8.0\EmployeesAndSpecializations.pdb
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.dll
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\refint\EmployeesAndSpecializations.dll
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.pdb
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\EmployeesAndSpecializations.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\EmployeesAndSpecializations\obj\Debug\net8.0\ref\EmployeesAndSpecializations.dll

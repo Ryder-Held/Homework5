@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.exe
+C:\Users\rjhel\source\repos\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.deps.json
+C:\Users\rjhel\source\repos\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.runtimeconfig.json
+C:\Users\rjhel\source\repos\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.dll
+C:\Users\rjhel\source\repos\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.pdb
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.dll
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\refint\ShapesAndAreas.dll
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.pdb
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\ShapesAndAreas\obj\Debug\net8.0\ref\ShapesAndAreas.dll

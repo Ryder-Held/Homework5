@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|c:\\users\\rjhel\\source\\repos\\shapesandareas\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|c:\\users\\rjhel\\source\\repos\\shapesandareas\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|c:\\users\\rjhel\\source\\repos\\shapesandareas\\programsaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|solutionrelative:programsaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|c:\\users\\rjhel\\source\\repos\\shapesandareas\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A93514-FE5F-4663-BAA6-393DEED78E6A}|ShapesAndAreas.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\Circle.cs*",
+              "RelativeToolTip": "Circle.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:13:28.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\Rectangle.cs*",
+              "RelativeToolTip": "Rectangle.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:05:06.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:00:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramSAA.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\ProgramSAA.cs",
+              "RelativeDocumentMoniker": "ProgramSAA.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\ShapesAndAreas\\ProgramSAA.cs",
+              "RelativeToolTip": "ProgramSAA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:00:07.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

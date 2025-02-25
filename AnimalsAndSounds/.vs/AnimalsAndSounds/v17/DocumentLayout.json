@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|c:\\users\\rjhel\\source\\repos\\animalsandsounds\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|c:\\users\\rjhel\\source\\repos\\animalsandsounds\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|c:\\users\\rjhel\\source\\repos\\animalsandsounds\\programaas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|solutionrelative:programaas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|c:\\users\\rjhel\\source\\repos\\animalsandsounds\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAFF6F9-ADB5-4E8F-BE41-280A9173ACBF}|AnimalsAndSounds.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\Cat.cs",
+              "RelativeDocumentMoniker": "Cat.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\Cat.cs",
+              "RelativeToolTip": "Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:25:21.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:24:06.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:19:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramAAS.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\ProgramAAS.cs",
+              "RelativeDocumentMoniker": "ProgramAAS.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\AnimalsAndSounds\\ProgramAAS.cs",
+              "RelativeToolTip": "ProgramAAS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:17:51.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

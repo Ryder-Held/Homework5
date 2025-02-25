@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|c:\\users\\rjhel\\source\\repos\\vehiclesandcars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|c:\\users\\rjhel\\source\\repos\\vehiclesandcars\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|c:\\users\\rjhel\\source\\repos\\vehiclesandcars\\vehical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|solutionrelative:vehical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|c:\\users\\rjhel\\source\\repos\\vehiclesandcars\\programvac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F2A49-90F5-4CC4-8AB5-7EDC50C2B562}|VehiclesAndCars.csproj|solutionrelative:programvac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:18:18.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:19:51.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehical.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\Vehical.cs",
+              "RelativeDocumentMoniker": "Vehical.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\Vehical.cs",
+              "RelativeToolTip": "Vehical.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:12:05.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramVAC.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\ProgramVAC.cs",
+              "RelativeDocumentMoniker": "ProgramVAC.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\VehiclesAndCars\\ProgramVAC.cs",
+              "RelativeToolTip": "ProgramVAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:10:57.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
